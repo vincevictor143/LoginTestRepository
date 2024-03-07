@@ -5,7 +5,8 @@ public class LoginTestClass1
 	public void loginclassMethod()
 	{
 		System.out.println("Enter the valid credentials"); 
-		System.out.println("Username Entered and  enterd");
+		System.out.println("Done");
+		System.out.println("Okay");
 	}
 
 }
